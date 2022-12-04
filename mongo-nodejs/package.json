@@ -1,0 +1,15 @@
+{
+  "name": "mongo-nodejs",
+  "version": "1.0.0",
+  "description": "Learn to set up connection with Mongo Database through MongoClient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.12.1"
+  }
+}
